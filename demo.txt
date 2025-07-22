@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 hello
-=======
-hello welcome to KLH
-
->>>>>>> 9e2bff32ad8865c68299921528c4cf02d5706a2e
